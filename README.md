@@ -3,9 +3,13 @@
 
 - 👀 I’m interested in **data science related content**
 
-- 🌱 I’m currently learning **python, machine learning, big data, artificial intelligence, SQL**
+- 📄 MBA Student in **Artificial Intelligence and Big Data**
 
 - 🤝 I’m looking for help with **python and machine learning**
+
+- 🌱 I’m currently learning **python, machine learning, big data, artificial intelligence, SQL**
+
+- 📄 Master Student in **Data Science**
 
 - 📫 How to reach me **ejunior029@gmail.com**
 

@@ -10,7 +10,7 @@
 📚 MBA em Inteligência Artificial e Big Data (USP) <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para ejunior029@gmail.com <br>
 <br>
-<br>
+
 ## Sobre mim:
 
 Olá! Meu nome é Edson, tenho 28 anos e estou a pouco mais de quatro anos atuando com modelagem no mercado financeiro. Ao longo deste período tenho utilizado análise de dados e a própria ciência de dados no desenvolvimento das análises de riscos financeiros, utilizando ferramentas como Python, R e SQL. Ultimamente venho dando mais espaço no estudo de Machine Learning, então aqui estarão hospedados os meus projetos do tema. <br>
@@ -25,7 +25,7 @@ Olá! Meu nome é Edson, tenho 28 anos e estou a pouco mais de quatro anos atuan
 * R  
 * Git & Version Control  
 <br> 
-<br>
+
 ### Soft Skills:
 
 * Comunicativo  
@@ -34,7 +34,7 @@ Olá! Meu nome é Edson, tenho 28 anos e estou a pouco mais de quatro anos atuan
 * Aprendo rápido  
 * Autodidata  
 <br>
-<br>
+
 ## Projetos em que atuei:
 
 Desenvolvimento de um modelo para classificação de dentes em restaurados e não restaurados utilizando redes neurais convolucionais como InceptionV3 e InceptionResnetV2. 
@@ -42,7 +42,7 @@ Segmentação de movimentações fionanceiras de clientes utilizando os algoritm
 Construção de modelo de machine learning para previsão de receitas da companhia
 Otimização e automação de processos utilizando SAS, Python e R
 <br>
-<br>
+
 Quanto aos idiomas, sou fluente em português, possuo inglês intermediário e francês intermediário.
 
 ## Produção de Conteúdo:
@@ -50,7 +50,6 @@ Quanto aos idiomas, sou fluente em português, possuo inglês intermediário e f
 No Medium, publico artigos sobre diversos assuntos (Métricas de Avaliação de Modelos de Classificação, O que é Overfitting e Underfitting, Validação Cruzada, entre outros).
 No GitHub, publico projetos pessoais relacionados à ciência de dados e Machine Learning.
 <br>
-
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
 
 <h3 align="left">Connect with me:</h3>

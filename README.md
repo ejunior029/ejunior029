@@ -52,6 +52,11 @@ Quanto aos idiomas, sou fluente em português, possuo inglês intermediário e f
 <br>
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
 
+#### Confira o meu portfolio no Medium:
+https://medium.com/@ejunior029  
+Aproveite e me siga para receber notificação sempre que um projeto/artigo novo sair do forno!!!
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/edson-junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/edson-junior" height="30" width="40" /></a>
@@ -60,5 +65,3 @@ Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou a
 <a href="https://instagram.com/edson.f.junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edson.f.junior" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>

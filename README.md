@@ -11,19 +11,17 @@
 📧 Quer entrar em contato comigo? Envie um e-mail para ejunior029@gmail.com <br>
 <br>
 
-E não se esqueça de conferir o meu blog.
-
 <br>
 
 ## Sobre mim:
 
-Olá! Meu nome é Edson, tenho 28 anos e sou estudante de ciência da computação na Universidade Federal de Lavras (média geral do curso: 90,46). Já estou no mercado de dados há 5 anos, desde que tinha apenas 15 anos.<br>
+Olá! Meu nome é Edson, tenho 28 anos e estou a pouco mais de quatro anos atuando com modelagem no mercado financeiro. Ao longo deste período tenho utilizado análise de dados e a própria ciência de dados no desenvolvimento das análises de riscos financeiros, utilizando ferramentas como Python, R e SQL. Ultimamente venho dando mais espaço no estudo de Machine Learning, então aqui estarão hospedados os meus projetos do tema. <br>
 
 ### Hard Skills:
 
-Python (scikit-learn, pandas, numpy, matplotlib, seaborn, flask)
+Python (scikit-learn, pandas, numpy, matplotlib, seaborn)
 SQL
-Machine Learning (Modelos supervisionados, não supervisionados e deep learning)
+Machine Learning (Modelos supervisionados e não supervisionados)
 Estatística descritiva e inferencial aplicada à análise de dados
 Excel e PowerBI
 R
@@ -37,8 +35,7 @@ Git & Version Control
 Comunicativo
 Trabalho em equipe
 Proatividade
-Senso de liderança
-Aprendo muito rápido
+Aprendo rápido
 Autodidata
 <br>
 
@@ -46,10 +43,10 @@ Autodidata
 
 ## Projetos em que atuei:
 
-Desenvolvimento de chatbots e assistentes virtuais utilizando LLMs, com integração à API da OpenAI e utilização de outras ferramentas disponíveis, como os modelos da Hugging Face e o framework LangChain
-Segmentação de clientes utilizando o algoritmo K-Means em uma análise RFV para realizar campanhas direcionadas aos clientes mais rentáveis da empresa
-Construção de relatórios automatizados para cursinhos brasileiros utilizando os microdados do ENEM, enfatizando a análise das questões, como aquelas com maior índice de erros, as mais difíceis, distribuição dos assuntos, entre outros
-Construção de um aplicativo web utilizando Streamlit e a API do ChatGPT para realizar análise de sentimentos das avaliações do aplicativo da empresa.
+Desenvolvimento de um modelo para classificação de dentes em restaurados e não restaurados utilizando redes neurais convolucionais como InceptionV3 e InceptionResnetV2. 
+Segmentação de movimentações fionanceiras de clientes utilizando os algoritmos K-Means e DBSCAN
+Construção de modelo de machine learning para previsão de receitas da companhia
+Otimização e automação de processos utilizando SAS, Python e R
 <br>
 
 <br>
@@ -58,10 +55,8 @@ Quanto aos idiomas, sou fluente em português, possuo inglês intermediário e f
 
 ## Produção de Conteúdo:
 
-No LinkedIn, publico vários materiais gratuitos (como a transcrição em português de um curso gratuito oferecido pela DeepLearning.AI) para ajudar iniciantes e avançados na área
-No Medium, publico artigos sobre diversos assuntos (Métricas de Avaliação de Modelos de Classificação, O que é Overfitting e Underfitting, Validação Cruzada, entre outros)
-
-No GitHub, publico vários projetos pessoais relacionados à ciência de dados e Machine Learning.
+No Medium, publico artigos sobre diversos assuntos (Métricas de Avaliação de Modelos de Classificação, O que é Overfitting e Underfitting, Validação Cruzada, entre outros).
+No GitHub, publico projetos pessoais relacionados à ciência de dados e Machine Learning.
 <br>
 
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.

@@ -19,13 +19,13 @@ Olá! Meu nome é Edson, tenho 28 anos e estou a pouco mais de quatro anos atuan
 
 ### Hard Skills:
 
-Python (scikit-learn, pandas, numpy, matplotlib, seaborn)  
-SQL  
-Machine Learning (Modelos supervisionados e não supervisionados)  
-Estatística descritiva e inferencial aplicada à análise de dados  
-Excel e PowerBI  
-R  
-Git & Version Control  
+* Python (scikit-learn, pandas, numpy, matplotlib, seaborn)  
+* SQL  
+* Machine Learning (Modelos supervisionados e não supervisionados)  
+* Estatística descritiva e inferencial aplicada à análise de dados  
+* Excel e PowerBI  
+* R  
+* Git & Version Control  
 <br> 
 
 <br>

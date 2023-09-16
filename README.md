@@ -47,7 +47,7 @@ Quanto aos idiomas, sou fluente em português, possuo inglês intermediário e f
 
 ## Produção de Conteúdo:
 
-* No Medium, publico artigos sobre diversos assuntos (Métricas de Avaliação de Modelos de Classificação, O que é Overfitting e Underfitting, Validação Cruzada, entre outros).
+* No Medium, publico artigos sobre diversos assuntos (Métricas de Avaliação de Modelos de Classificação, O que é Overfitting e Underfitting, Validação Cruzada, entre outros)  
 * No GitHub, publico projetos pessoais relacionados à ciência de dados e Machine Learning.
 <br>
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.

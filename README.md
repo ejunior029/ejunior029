@@ -37,18 +37,18 @@ Olá! Meu nome é Edson, tenho 28 anos e estou a pouco mais de quatro anos atuan
 
 ## Projetos em que atuei:
 
-Desenvolvimento de um modelo para classificação de dentes em restaurados e não restaurados utilizando redes neurais convolucionais como InceptionV3 e InceptionResnetV2. 
-Segmentação de movimentações fionanceiras de clientes utilizando os algoritmos K-Means e DBSCAN
-Construção de modelo de machine learning para previsão de receitas da companhia
-Otimização e automação de processos utilizando SAS, Python e R
+* Desenvolvimento de um modelo para classificação de dentes em restaurados e não restaurados utilizando redes neurais convolucionais como InceptionV3 e InceptionResnetV2. 
+* Segmentação de movimentações fionanceiras de clientes utilizando os algoritmos K-Means e DBSCAN
+* Construção de modelo de machine learning para previsão de receitas da companhia
+* Otimização e automação de processos utilizando SAS, Python e R
 <br>
 
 Quanto aos idiomas, sou fluente em português, possuo inglês intermediário e francês intermediário.
 
 ## Produção de Conteúdo:
 
-No Medium, publico artigos sobre diversos assuntos (Métricas de Avaliação de Modelos de Classificação, O que é Overfitting e Underfitting, Validação Cruzada, entre outros).
-No GitHub, publico projetos pessoais relacionados à ciência de dados e Machine Learning.
+* No Medium, publico artigos sobre diversos assuntos (Métricas de Avaliação de Modelos de Classificação, O que é Overfitting e Underfitting, Validação Cruzada, entre outros).
+* No GitHub, publico projetos pessoais relacionados à ciência de dados e Machine Learning.
 <br>
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
 

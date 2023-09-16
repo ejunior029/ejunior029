@@ -59,7 +59,7 @@ Aproveite e me siga para receber notificação sempre que um projeto/artigo novo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/edson-junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/edson-junior" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edson-junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/edson-junior" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/edsonjnior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/edsonjnior" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ejunior029/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ejunior029/" height="30" width="40" /></a>
 <a href="https://instagram.com/edson.f.junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edson.f.junior" height="30" width="40" /></a>

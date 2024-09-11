@@ -13,7 +13,7 @@
 
 ## Sobre mim:
 
-Olá! Meu nome é Edson, tenho 28 anos e estou a pouco mais de quatro anos atuando com modelagem no mercado financeiro. Ao longo deste período tenho utilizado análise de dados e a própria ciência de dados no desenvolvimento das análises de riscos financeiros, utilizando ferramentas como Python, R e SQL. Ultimamente venho dando mais espaço no estudo de Machine Learning, então aqui estarão hospedados os meus projetos do tema. <br>
+Olá pessoal, meu nome é Edson, tenho 29 anos e atuei significativamente com modelagem de risco e ciência de dados nos últimos anos. Tenho bacharel em engenharia elétrica e MBA em Inteligência Artificial e Big Data. Além disso, sou estudante de mestrado em ciência de dados. Atualmente sou cientista de dados com uma atuação bastante próxima de CRM. Ultimamente venho dando mais espaço no estudo de Machine Learning, então aqui estarão hospedados os meus projetos do tema. <br>
 
 ### Hard Skills:
 
@@ -41,6 +41,7 @@ Olá! Meu nome é Edson, tenho 28 anos e estou a pouco mais de quatro anos atuan
 * Segmentação de movimentações fionanceiras de clientes utilizando os algoritmos K-Means e DBSCAN
 * Construção de modelo de machine learning para previsão de receitas da companhia
 * Otimização e automação de processos utilizando SAS, Python e R
+* Machine Learning voltado à prospecção de novos clientes (leads)
 <br>
 
 Quanto aos idiomas, sou fluente em português, possuo inglês intermediário e francês intermediário.

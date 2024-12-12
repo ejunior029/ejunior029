@@ -15,11 +15,11 @@
 
 Cientista de dados (+ de 5 anos no mercado) com sólida formação acadêmica em Engenharia Elétrica pela UNESP e pós-graduado em Inteligência Artificial e Big Data pela USP. Atualmente trabalho como cientista desenvolvendo modelos para **prevenção a fraudes, PLDFT, CyberSec**, utilizando Python, SQL, Machine Learning e Databricks. 
 
-Previamente atuei com modelagem de risco envolvendo o desenvolvimento de **modelos de Segmentação/Clusterização** de clientes investidores, identificação de fraudes em operações e previsão de receitas da companhia utilizando modelos de **Regressão Bayesiana**.
+* Previamente atuei com modelagem de risco envolvendo o desenvolvimento de **modelos de Segmentação/Clusterização** de clientes investidores, identificação de fraudes em operações e previsão de receitas da companhia utilizando modelos de **Regressão Bayesiana**.
 
-Também já atuei como cientista de dados em uma área de CRM, como **modelos de propensão de leads** e **sistemas de recomendações de produtos**, utilizando Python, Estatística, Machine Learning e Databricks. 
+* Também já atuei como cientista de dados em uma área de CRM, como **modelos de propensão de leads** e **sistemas de recomendações de produtos**, utilizando Python, Estatística, Machine Learning e Databricks. 
 
-Atuei como **professor na FCCD (Formação Completa de Ciência de Dados)** e na **Universidade dos Dados**, ambas plataformas que capacitam profissionais em dados. Participei da criação de aulas e projetos práticos sobre temas como **estatística** e **Machine Learning**. <br>
+* Atuei como **professor na FCCD (Formação Completa de Ciência de Dados)** e na **Universidade dos Dados**, ambas plataformas que capacitam profissionais em dados. Participei da criação de aulas e projetos práticos sobre temas como **estatística** e **Machine Learning**. <br>
 
 ### Hard Skills:
 

@@ -5,7 +5,7 @@
 ## Minha experiência:
 
 🌐 Tenho experiência em trabalhar com Python, SQL, R e suas bibliotecas para Ciência de Dados e Machine Learning<br>
-🎲 Trabalho como analista de modelagem de riscos financeiros <br>
+🎲 Trabalho como cientista de dados em PLDFT (Prevenção à Lavagem de Dinheiro e Financiamento ao Terrorismo) <br>
 📚 Engenheiro Eletricista de formação (UNESP) <br>
 📚 MBA em Inteligência Artificial e Big Data (USP) <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para ejunior029@gmail.com <br>
@@ -13,7 +13,13 @@
 
 ## Sobre mim:
 
-Olá pessoal, meu nome é Edson, tenho 29 anos e atuei significativamente com modelagem de risco e ciência de dados nos últimos anos. Tenho bacharel em engenharia elétrica e MBA em Inteligência Artificial e Big Data. Além disso, sou estudante de mestrado em ciência de dados. Atualmente sou cientista de dados com uma atuação bastante próxima de CRM. Ultimamente venho dando mais espaço no estudo de Machine Learning, então aqui estarão hospedados os meus projetos do tema. <br>
+Cientista de dados (+ de 5 anos no mercado) com sólida formação acadêmica em Engenharia Elétrica pela UNESP e pós-graduado em Inteligência Artificial e Big Data pela USP. Atualmente trabalho como cientista desenvolvendo modelos para **prevenção a fraudes, PLDFT, CyberSec**, utilizando Python, SQL, Machine Learning e Databricks. 
+
+Previamente atuei com modelagem de risco envolvendo o desenvolvimento de **modelos de Segmentação/Clusterização** de clientes investidores, identificação de fraudes em operações e previsão de receitas da companhia utilizando modelos de **Regressão Bayesiana**.
+
+Também já atuei como cientista de dados em uma área de CRM, como **modelos de propensão de leads** e **sistemas de recomendações de produtos**, utilizando Python, Estatística, Machine Learning e Databricks. 
+
+Atuei como **professor na FCCD (Formação Completa de Ciência de Dados)** e na **Universidade dos Dados**, ambas plataformas que capacitam profissionais em dados. Participei da criação de aulas e projetos práticos sobre temas como **estatística** e **Machine Learning**. <br>
 
 ### Hard Skills:
 
@@ -37,18 +43,18 @@ Olá pessoal, meu nome é Edson, tenho 29 anos e atuei significativamente com mo
 
 ## Projetos em que atuei:
 
-* Desenvolvimento de um modelo para classificação de dentes em restaurados e não restaurados utilizando redes neurais convolucionais como InceptionV3 e InceptionResnetV2. 
-* Segmentação de movimentações fionanceiras de clientes utilizando os algoritmos K-Means e DBSCAN
+* Desenvolvimento de um modelo para classificação de dentes em restaurados e não restaurados utilizando redes neurais convolucionais como InceptionV3 e InceptionResnetV2 **(DeepLearning)**. 
+* Segmentação de movimentações financeiras de clientes utilizando os algoritmos K-Means e DBSCAN
 * Construção de modelo de machine learning para previsão de receitas da companhia
 * Otimização e automação de processos utilizando SAS, Python e R
-* Machine Learning voltado à prospecção de novos clientes (leads)
+* Machine Learning voltado à prospecção de novos clientes (**CRM Data Scientist**)
 <br>
 
 Quanto aos idiomas, sou fluente em português, possuo inglês intermediário e francês intermediário.
 
 ## Produção de Conteúdo:
 
-* No Medium, publico artigos sobre diversos assuntos (Métricas de Avaliação de Modelos de Classificação, O que é Overfitting e Underfitting, Validação Cruzada, entre outros)  
+* No Medium, publico artigos sobre diversos assuntos (Métricas de Avaliação de Modelos de Classificação, O que é Overfitting e Underfitting, Validação Cruzada, Inferência Causal entre outros)  
 * No GitHub, publico projetos pessoais relacionados à ciência de dados e Machine Learning.
 <br>
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.

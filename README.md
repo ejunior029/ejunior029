@@ -1,232 +1,88 @@
 # 👋 Hi, I'm Edson Júnior
 
-### Senior Data Scientist | AI Engineer | Generative AI | AI Agents | Machine Learning | Databricks
-
-Welcome to my GitHub!
-
-I'm a **Senior Data Scientist** with **6+ years of experience** developing Machine Learning solutions, AI Agents and Large Language Model (LLM) applications to solve complex business problems.
-
-Currently, I work at **Braskem**, where I'm building enterprise AI solutions using **LLMs**, **AI Agents**, **Azure AI Foundry**, and intelligent workflow automation.
-
----
-
-# 🚀 About Me
-
-I'm passionate about transforming data into intelligent solutions that generate real business value.
-
-Throughout my career, I've worked on projects involving:
-
-- 🤖 AI Agents & Large Language Models (LLMs)
-- 🧠 Generative AI Applications
-- 💳 Fraud Detection
-- 🛡️ AML/CFT (Anti-Money Laundering & Counter-Terrorism Financing)
-- 🔐 Cyber Security
-- 📊 Predictive Modeling
-- 🎯 Customer Segmentation
-- 📈 Recommendation Systems
-- ☁️ MLOps & Machine Learning at Scale
-
-I hold a degree in **Electrical Engineering** from **UNESP** and a postgraduate degree in **Artificial Intelligence & Big Data** from **USP**.
-
----
-
-# 💼 Professional Experience
-
-## 🏭 Senior Data Scientist — Braskem
-
-Currently working on enterprise Artificial Intelligence initiatives, focusing on:
-
-- AI Agents
-- Multi-Agent Systems
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Azure AI Foundry
-- Intelligent Document Processing
-- Workflow Automation
-- Python Development
-- Databricks
-
----
-
-## 🏦 Data Scientist — Banco Bradesco
-
-Developed fraud prevention models deployed on Azure Databricks.
-
-Main responsibilities included:
-
-- Fraud Detection
-- Feature Engineering
-- End-to-End Machine Learning Pipelines
-- MLOps
-- MLflow
-- Databricks AutoML
-- Bayesian Hyperparameter Optimization (Optuna)
-- Time-based Cross Validation
-- Statistical Analysis
-- Business KPI Optimization
-
----
-
-## 🏦 CRM Data Scientist — Banco Sofisa
-
-Developed Machine Learning solutions for CRM, including:
-
-- Lead Propensity Models
-- Customer Segmentation
-- Recommendation Systems
-- Customer Profiling
-- Credit Analytics
-
----
-
-# 🛠 Tech Stack
-
-## Programming Languages
-
-- Python
-- SQL
-- R
-
-## Machine Learning
-
-- Scikit-Learn
-- XGBoost
-- LightGBM
-- CatBoost
-- TensorFlow
-- PyTorch
-
-## Generative AI
-
-- GPT
-- Claude
-- Azure AI Foundry
-- Azure AI Studio
-- AI Agents
-- Prompt Engineering
-- Multi-Agent Systems
-- RAG
-
-## Data Engineering & MLOps
-
-- Databricks
-- PySpark
-- Delta Lake
-- MLflow
-- Feature Engineering
-
-## Cloud
-
-- Microsoft Azure
-
-## Others
-
-- Git
-- Docker
-- Power BI
-- Excel
-
----
-
-# 🎓 Teaching Experience
-
-I previously worked as an instructor at:
-
-- FCCD (Complete Data Science Training)
-- Universidade dos Dados
-
-where I developed courses and practical projects covering topics such as:
-
-- Machine Learning
-- Statistics
-- Python
-- Data Science
-
-Teaching has strengthened my ability to explain complex technical concepts in a simple and practical way.
-
----
-
-# 📂 Featured Topics
-
-Some of the topics explored in my repositories include:
-
-- 🤖 AI Agents
-- LLM Applications
-- Fraud Detection
-- Machine Learning
-- Deep Learning
-- Bayesian Statistics
-- Recommendation Systems
-- Customer Segmentation
-- Time Series Forecasting
-- Data Engineering
-- MLOps
-- Model Evaluation
-- Feature Engineering
-
----
-
-# ✍️ Technical Writing
-
-I regularly publish technical articles about Data Science, Machine Learning and Artificial Intelligence.
-
-Topics include:
-
-- Model Evaluation Metrics
-- Cross Validation
-- Feature Engineering
-- Bias-Variance Trade-off
-- Overfitting & Underfitting
-- Machine Learning Algorithms
-- Statistics
-- Generative AI
-
-📖 Medium
-
-https://medium.com/@ejunior029
-
----
-
-# 🌍 Languages
-
-- 🇧🇷 Portuguese — Native
-- 🇺🇸 English — Intermediate
-- 🇫🇷 French — Intermediate
-
----
-
-# 📫 Contact
-
-📧 **Email**
-
-ejunior029@gmail.com
-
----
-
-# 🌐 Connect with Me
+### Senior Data Scientist building AI Agents & LLM systems that run in production — at Braskem, Bradesco, and beyond
 
 <p align="left">
-<a href="https://linkedin.com/in/edson-junior" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
-</a>
+  <a href="https://linkedin.com/in/edson-junior" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@ejunior029" target="_blank"><img src="https://img.shields.io/badge/Medium-articles-000000?logo=medium&logoColor=white"></a>
+  <a href="https://www.kaggle.com/edsonjnior" target="_blank"><img src="https://img.shields.io/badge/Kaggle-profile-20BEFF?logo=kaggle&logoColor=white"></a>
+  <a href="mailto:ejunior029@gmail.com"><img src="https://img.shields.io/badge/Email-contact-EA4335?logo=gmail&logoColor=white"></a>
+</p>
 
-<a href="https://github.com/ejunior029" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</a>
+6+ years turning messy business problems — fraud, AML/CFT, churn, credit risk — into ML systems that ship. These days that means **AI Agents and LLM applications** on Azure AI Foundry; before that it meant fraud models running on Databricks catching real money in real time.
 
-<a href="https://www.kaggle.com/edsonjnior" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40"/>
-</a>
+---
 
-<a href="https://medium.com/@ejunior029" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" height="40"/>
-</a>
+## 🔭 Currently
 
-<a href="https://instagram.com/edson.f.junior" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
-</a>
+- Building multi-agent LLM systems and intelligent document processing at **Braskem**
+- Exploring: agent evaluation/observability, RAG architectures for regulated industries
+- Writing about ML fundamentals (metrics, cross-validation, bias-variance) on **[Medium](https://medium.com/@ejunior029)**
+
+---
+
+## 📌 Pinned work — start here
+
+| Repo | What it shows |
+|---|---|
+| **[brazil-municipal-gdp-regression](https://github.com/ejunior029/brazil-municipal-gdp-regression)** | End-to-end regression on real IBGE data: EDA → baseline → 5-fold CV model comparison → Optuna Bayesian tuning. XGBoost R² 0.90 in CV. |
+| **[fatal-accident-prediction-br](https://github.com/ejunior029/fatal-accident-prediction-br)** | Imbalanced binary classification (13:1) on 73k real PRF traffic-accident records. Exposes the "93% accuracy, 0 fatalities detected" trap, then fixes it — F1 improves from 0.00 (dummy) to 0.38 (tuned XGBoost). |
+| *[your-ai-agent-repo]* | *[1-line result: e.g. "Multi-agent system for document processing using Azure AI Foundry + RAG"]* |
+| *[your-recommendation-system-repo]* | *[1-line result]* |
+
+> Replace the two remaining placeholder rows with your strongest AI Agent / GenAI and recommendation-system repos — pin the same four on your profile so this table matches your pinned cards.
+
+---
+
+## 💼 Experience
+
+**Senior Data Scientist — Braskem** *(current)*
+AI Agents, multi-agent systems, LLMs, prompt engineering, and intelligent document processing on Azure AI Foundry — moving enterprise workflows from manual to automated.
+
+**Data Scientist — Banco Bradesco**
+Built and deployed fraud-detection models on Azure Databricks end-to-end: feature engineering, MLflow tracking, Databricks AutoML, Optuna-based hyperparameter search, and time-based cross-validation to avoid look-ahead bias.
+*[Add one concrete number here if you can share it — e.g. detection rate improvement, false-positive reduction, or scale (transactions/day evaluated). This single line does more for credibility than the rest of the bullet combined.]*
+
+**CRM Data Scientist — Banco Sofisa**
+Lead propensity models, customer segmentation, and recommendation systems feeding credit and CRM decisions.
+*[Same here — even an approximate, non-confidential number: "segmentation used to target X% of the customer base" or similar.]*
+
+---
+
+## 🛠 Stack
+
+**Languages** Python · SQL · R
+**ML** scikit-learn · XGBoost · LightGBM · CatBoost · TensorFlow · PyTorch
+**GenAI / Agents** GPT · Claude · Azure AI Foundry · RAG · Multi-Agent Systems · Prompt Engineering
+**Data & MLOps** Databricks · PySpark · Delta Lake · MLflow · Feature Engineering
+**Cloud** Microsoft Azure
+**Other** Git · Docker · Power BI
+
+---
+
+## 🎓 Teaching
+
+Instructor at **FCCD** and **Universidade dos Dados** — courses on Machine Learning, Statistics, and Python. Explaining a concept clearly to a room of students is a good forcing function for actually understanding it.
+
+---
+
+## 📊 GitHub stats
+
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=ejunior029&show_icons=true&theme=default&hide_border=true" height="165">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ejunior029&layout=compact&hide_border=true" height="165">
 </p>
 
 ---
 
-⭐ Feel free to explore my repositories, open issues, or connect with me. I'm always interested in collaborating on projects involving Machine Learning, Generative AI, AI Agents, and Data Science.
+## 🎓 Background
+
+Electrical Engineering (UNESP) · Postgraduate in AI & Big Data (USP)
+
+## 🌍 Languages
+
+🇧🇷 Portuguese — Native · 🇺🇸 English — Professional working proficiency · 🇫🇷 French — Intermediate
+
+---
+
+📫 **ejunior029@gmail.com** — open to conversations about AI Agents, LLM applications, and ML in production.

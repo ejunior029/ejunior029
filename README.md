@@ -36,20 +36,20 @@
 
 ## 💼 Experience
 
-**Senior Data Scientist — Braskem** *(current)*
+**Senior Data Scientist — Braskem** *(current)*  
 AI Agents, multi-agent systems, LLMs, prompt engineering, and intelligent document processing on Azure AI Foundry — moving enterprise workflows from manual to automated.
 
-**Data Scientist — Banco Bradesco**
+**Data Scientist — Banco Bradesco**  
 Built a LightGBM fraud-detection model on large-scale transaction data: benchmarked candidates with Databricks AutoML, handled severe class imbalance through sampling, and validated with time-based cross-validation to avoid look-ahead bias. Tuned with Optuna, tracked with MLflow, and orchestrated end-to-end through Databricks Jobs.
 *Shipped to production at an 80% fraud detection rate.*
 
-**CRM Data Scientist — Banco Sofisa**
+**CRM Data Scientist — Banco Sofisa**  
 Lead propensity models, customer segmentation, and recommendation systems feeding credit and CRM decisions.
 *Within 3 months of deployment, the propensity models drove R$6M+ in new credit risk originated for the bank*
 
-**Data Scientist — B3 (Brazil's Stock Exchange)**
+**Data Scientist — B3 (Brazil's Stock Exchange)**  
 Built econometric revenue-forecasting models (frequentist and Bayesian) for macroeconomic risk monitoring, and unsupervised fraud detection (KMeans, DBSCAN) to profile investors behind fraudulent trading activity — plus risk-control tooling that automated the monthly monitoring of funds trading assets they weren't authorized to hold.
-DBSCAN isolated fraud cases into their own distinct cluster — turning a manual investigation into a repeatable detection signal.
+**DBSCAN isolated fraud cases into their own distinct cluster** — turning a manual investigation into a repeatable detection signal.
 ---
 
 ## 🛠 Stack

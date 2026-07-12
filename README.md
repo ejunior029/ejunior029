@@ -50,6 +50,7 @@ Lead propensity models, customer segmentation, and recommendation systems feedin
 **Data Scientist — B3 (Brazil's Stock Exchange)**  
 Built econometric revenue-forecasting models (frequentist and Bayesian) for macroeconomic risk monitoring, and unsupervised fraud detection (KMeans, DBSCAN) to profile investors behind fraudulent trading activity — plus risk-control tooling that automated the monthly monitoring of funds trading assets they weren't authorized to hold.
 **DBSCAN isolated fraud cases into their own distinct cluster** — turning a manual investigation into a repeatable detection signal.
+
 ---
 
 ## 🛠 Stack

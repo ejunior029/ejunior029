@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Edson Júnior
 
-### Senior Data Scientist building AI Agents & LLM systems that run in production — at Braskem, Bradesco, and beyond
+### Senior Data Scientist building AI Agents & LLM systems that run in production — at Braskem, Bradesco, B3 (Brazil Stock Exchange) and beyond
 
 <p align="left">
   <a href="https://linkedin.com/in/edson-junior" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white"></a>
@@ -69,8 +69,9 @@ Instructor at **FCCD** and **Universidade dos Dados** — courses on Machine Lea
 ## 📊 GitHub stats
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=ejunior029&show_icons=true&theme=default&hide_border=true" height="165">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ejunior029&layout=compact&hide_border=true" height="165">
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ejunior029&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=ejunior029&langs_count=4&theme=gruvbox)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ejunior029&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=ejunior029&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 </p>
 
 ---

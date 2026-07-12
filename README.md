@@ -1,74 +1,232 @@
-# Olá! Bem-vindo(a) ao meu repositório!
+# 👋 Hi, I'm Edson Júnior
 
-<br>
+### Senior Data Scientist | AI Engineer | Generative AI | AI Agents | Machine Learning | Databricks
 
-## Minha experiência:
+Welcome to my GitHub!
 
-🌐 Tenho experiência em trabalhar com Python, SQL, R e suas bibliotecas para Ciência de Dados e Machine Learning<br>
-🎲 Trabalho como cientista de dados em PLDFT (Prevenção à Lavagem de Dinheiro e Financiamento ao Terrorismo) <br>
-📚 Engenheiro Eletricista de formação (UNESP) <br>
-📚 MBA em Inteligência Artificial e Big Data (USP) <br>
-📧 Quer entrar em contato comigo? Envie um e-mail para ejunior029@gmail.com <br>
-<br>
+I'm a **Senior Data Scientist** with **6+ years of experience** developing Machine Learning solutions, AI Agents and Large Language Model (LLM) applications to solve complex business problems.
 
-## Sobre mim:
+Currently, I work at **Braskem**, where I'm building enterprise AI solutions using **LLMs**, **AI Agents**, **Azure AI Foundry**, and intelligent workflow automation.
 
-Cientista de dados (+ de 5 anos no mercado) com sólida formação acadêmica em Engenharia Elétrica pela UNESP e pós-graduado em Inteligência Artificial e Big Data pela USP. Atualmente trabalho como cientista desenvolvendo modelos para **prevenção a fraudes, PLDFT, CyberSec**, utilizando Python, SQL, Machine Learning e Databricks. 
+---
 
-* Previamente atuei com modelagem de risco envolvendo o desenvolvimento de **modelos de Segmentação/Clusterização** de clientes investidores, identificação de fraudes em operações e previsão de receitas da companhia utilizando modelos de **Regressão Bayesiana**.
+# 🚀 About Me
 
-* Também já atuei como cientista de dados em uma área de CRM, como **modelos de propensão de leads** e **sistemas de recomendações de produtos**, utilizando Python, Estatística, Machine Learning e Databricks. 
+I'm passionate about transforming data into intelligent solutions that generate real business value.
 
-* Atuei como **professor na FCCD (Formação Completa de Ciência de Dados)** e na **Universidade dos Dados**, ambas plataformas que capacitam profissionais em dados. Participei da criação de aulas e projetos práticos sobre temas como **estatística** e **Machine Learning**. <br>
+Throughout my career, I've worked on projects involving:
 
-### Hard Skills:
+- 🤖 AI Agents & Large Language Models (LLMs)
+- 🧠 Generative AI Applications
+- 💳 Fraud Detection
+- 🛡️ AML/CFT (Anti-Money Laundering & Counter-Terrorism Financing)
+- 🔐 Cyber Security
+- 📊 Predictive Modeling
+- 🎯 Customer Segmentation
+- 📈 Recommendation Systems
+- ☁️ MLOps & Machine Learning at Scale
 
-* Python (scikit-learn, pandas, numpy, matplotlib, seaborn)  
-* SQL  
-* Machine Learning (Modelos supervisionados e não supervisionados)  
-* Estatística descritiva e inferencial aplicada à análise de dados  
-* Excel e PowerBI  
-* R  
-* Git & Version Control  
-<br> 
+I hold a degree in **Electrical Engineering** from **UNESP** and a postgraduate degree in **Artificial Intelligence & Big Data** from **USP**.
 
-### Soft Skills:
+---
 
-* Comunicativo  
-* Trabalho em equipe  
-* Proatividade  
-* Aprendo rápido  
-* Autodidata  
-<br>
+# 💼 Professional Experience
 
-## Projetos em que atuei:
+## 🏭 Senior Data Scientist — Braskem
 
-* Desenvolvimento de um modelo para classificação de dentes em restaurados e não restaurados utilizando redes neurais convolucionais como InceptionV3 e InceptionResnetV2 **(DeepLearning)**. 
-* Segmentação de movimentações financeiras de clientes utilizando os algoritmos K-Means e DBSCAN
-* Construção de modelo de machine learning para previsão de receitas da companhia
-* Otimização e automação de processos utilizando SAS, Python e R
-* Machine Learning voltado à prospecção de novos clientes (**CRM Data Scientist**)
-<br>
+Currently working on enterprise Artificial Intelligence initiatives, focusing on:
 
-Quanto aos idiomas, sou fluente em português, possuo inglês intermediário e francês intermediário.
+- AI Agents
+- Multi-Agent Systems
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Azure AI Foundry
+- Intelligent Document Processing
+- Workflow Automation
+- Python Development
+- Databricks
 
-## Produção de Conteúdo:
+---
 
-* No Medium, publico artigos sobre diversos assuntos (Métricas de Avaliação de Modelos de Classificação, O que é Overfitting e Underfitting, Validação Cruzada, Inferência Causal entre outros)  
-* No GitHub, publico projetos pessoais relacionados à ciência de dados e Machine Learning.
-<br>
-Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
+## 🏦 Data Scientist — Banco Bradesco
 
-#### Confira o meu portfolio no Medium:
-https://medium.com/@ejunior029  
-Aproveite e me siga para receber notificação sempre que um projeto/artigo novo sair do forno!!!
+Developed fraud prevention models deployed on Azure Databricks.
 
+Main responsibilities included:
 
-<h3 align="left">🌐 Connect with me:</h3>
+- Fraud Detection
+- Feature Engineering
+- End-to-End Machine Learning Pipelines
+- MLOps
+- MLflow
+- Databricks AutoML
+- Bayesian Hyperparameter Optimization (Optuna)
+- Time-based Cross Validation
+- Statistical Analysis
+- Business KPI Optimization
+
+---
+
+## 🏦 CRM Data Scientist — Banco Sofisa
+
+Developed Machine Learning solutions for CRM, including:
+
+- Lead Propensity Models
+- Customer Segmentation
+- Recommendation Systems
+- Customer Profiling
+- Credit Analytics
+
+---
+
+# 🛠 Tech Stack
+
+## Programming Languages
+
+- Python
+- SQL
+- R
+
+## Machine Learning
+
+- Scikit-Learn
+- XGBoost
+- LightGBM
+- CatBoost
+- TensorFlow
+- PyTorch
+
+## Generative AI
+
+- GPT
+- Claude
+- Azure AI Foundry
+- Azure AI Studio
+- AI Agents
+- Prompt Engineering
+- Multi-Agent Systems
+- RAG
+
+## Data Engineering & MLOps
+
+- Databricks
+- PySpark
+- Delta Lake
+- MLflow
+- Feature Engineering
+
+## Cloud
+
+- Microsoft Azure
+
+## Others
+
+- Git
+- Docker
+- Power BI
+- Excel
+
+---
+
+# 🎓 Teaching Experience
+
+I previously worked as an instructor at:
+
+- FCCD (Complete Data Science Training)
+- Universidade dos Dados
+
+where I developed courses and practical projects covering topics such as:
+
+- Machine Learning
+- Statistics
+- Python
+- Data Science
+
+Teaching has strengthened my ability to explain complex technical concepts in a simple and practical way.
+
+---
+
+# 📂 Featured Topics
+
+Some of the topics explored in my repositories include:
+
+- 🤖 AI Agents
+- LLM Applications
+- Fraud Detection
+- Machine Learning
+- Deep Learning
+- Bayesian Statistics
+- Recommendation Systems
+- Customer Segmentation
+- Time Series Forecasting
+- Data Engineering
+- MLOps
+- Model Evaluation
+- Feature Engineering
+
+---
+
+# ✍️ Technical Writing
+
+I regularly publish technical articles about Data Science, Machine Learning and Artificial Intelligence.
+
+Topics include:
+
+- Model Evaluation Metrics
+- Cross Validation
+- Feature Engineering
+- Bias-Variance Trade-off
+- Overfitting & Underfitting
+- Machine Learning Algorithms
+- Statistics
+- Generative AI
+
+📖 Medium
+
+https://medium.com/@ejunior029
+
+---
+
+# 🌍 Languages
+
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Intermediate
+- 🇫🇷 French — Intermediate
+
+---
+
+# 📫 Contact
+
+📧 **Email**
+
+ejunior029@gmail.com
+
+---
+
+# 🌐 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/edson-junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/edson-junior" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/edsonjnior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/edsonjnior" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ejunior029/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ejunior029/" height="30" width="40" /></a>
-<a href="https://instagram.com/edson.f.junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edson.f.junior" height="30" width="40" /></a>
-<a href="https://medium.com/@ejunior029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ejunior029" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edson-junior" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/ejunior029" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.kaggle.com/edsonjnior" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40"/>
+</a>
+
+<a href="https://medium.com/@ejunior029" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" height="40"/>
+</a>
+
+<a href="https://instagram.com/edson.f.junior" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
+</a>
 </p>
+
+---
+
+⭐ Feel free to explore my repositories, open issues, or connect with me. I'm always interested in collaborating on projects involving Machine Learning, Generative AI, AI Agents, and Data Science.

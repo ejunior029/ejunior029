@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Edson Júnior
 
-### Senior Data Scientist building AI Agents & LLM systems that run in production — at Braskem, Bradesco, B3 (Brazil Stock Exchange) and beyond
+### Senior Data Scientist building AI Agents & LLM systems that run in production — at Braskem, Bradesco, B3 (Brazil's Stock Exchange) and beyond
 
 <p align="left">
   <a href="https://linkedin.com/in/edson-junior" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white"></a>
@@ -40,13 +40,16 @@
 AI Agents, multi-agent systems, LLMs, prompt engineering, and intelligent document processing on Azure AI Foundry — moving enterprise workflows from manual to automated.
 
 **Data Scientist — Banco Bradesco**
-Built and deployed fraud-detection models on Azure Databricks end-to-end: feature engineering, MLflow tracking, Databricks AutoML, Optuna-based hyperparameter search, and time-based cross-validation to avoid look-ahead bias.
-*[Add one concrete number here if you can share it — e.g. detection rate improvement, false-positive reduction, or scale (transactions/day evaluated). This single line does more for credibility than the rest of the bullet combined.]*
+Built a LightGBM fraud-detection model on large-scale transaction data: benchmarked candidates with Databricks AutoML, handled severe class imbalance through sampling, and validated with time-based cross-validation to avoid look-ahead bias. Tuned with Optuna, tracked with MLflow, and orchestrated end-to-end through Databricks Jobs.
+*Shipped to production at an 80% fraud detection rate.*
 
 **CRM Data Scientist — Banco Sofisa**
 Lead propensity models, customer segmentation, and recommendation systems feeding credit and CRM decisions.
-*[Same here — even an approximate, non-confidential number: "segmentation used to target X% of the customer base" or similar.]*
+*Within 3 months of deployment, the propensity models drove R$6M+ in new credit risk originated for the bank*
 
+**Data Scientist — B3 (Brazil's Stock Exchange)**
+Built econometric revenue-forecasting models (frequentist and Bayesian) for macroeconomic risk monitoring, and unsupervised fraud detection (KMeans, DBSCAN) to profile investors behind fraudulent trading activity — plus risk-control tooling that automated the monthly monitoring of funds trading assets they weren't authorized to hold.
+DBSCAN isolated fraud cases into their own distinct cluster — turning a manual investigation into a repeatable detection signal.
 ---
 
 ## 🛠 Stack

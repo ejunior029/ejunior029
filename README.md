@@ -27,8 +27,6 @@
 |---|---|
 | **[brazil-municipal-gdp-regression](https://github.com/ejunior029/brazil-municipal-gdp-regression)** | End-to-end regression on real IBGE data: EDA → baseline → 5-fold CV model comparison → Optuna Bayesian tuning. XGBoost R² 0.90 in CV. |
 | **[fatal-accident-prediction-br](https://github.com/ejunior029/fatal-accident-prediction-br)** | Imbalanced binary classification (13:1) on 73k real PRF traffic-accident records. Exposes the "93% accuracy, 0 fatalities detected" trap, then fixes it — F1 improves from 0.00 (dummy) to 0.38 (tuned XGBoost). |
-| *[your-ai-agent-repo]* | *[1-line result: e.g. "Multi-agent system for document processing using Azure AI Foundry + RAG"]* |
-| *[your-recommendation-system-repo]* | *[1-line result]* |
 
 > Replace the two remaining placeholder rows with your strongest AI Agent / GenAI and recommendation-system repos — pin the same four on your profile so this table matches your pinned cards.
 

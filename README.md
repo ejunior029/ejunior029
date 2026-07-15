@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Edson Júnior
+# Hi, I'm Edson Júnior
 
 ### Senior Data Scientist building AI Agents & LLM systems that run in production — at Braskem, Bradesco, B3 (Brazil's Stock Exchange) and beyond
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🔭 Currently
+## Currently
 
 - Building multi-agent LLM systems and intelligent document processing at **Braskem**
 - Exploring: agent evaluation/observability, RAG architectures for regulated industries
@@ -21,7 +21,7 @@
 
 ---
 
-## 📌 Pinned work — start here
+## Pinned work — start here
 
 | Repo | What it shows |
 |---|---|
@@ -32,7 +32,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Senior Data Scientist — Braskem** *(current)*  
 AI Agents, multi-agent systems, LLMs, prompt engineering, and intelligent document processing on Azure AI Foundry — moving enterprise workflows from manual to automated.
@@ -51,7 +51,7 @@ Built econometric revenue-forecasting models (frequentist and Bayesian) for macr
 
 ---
 
-## 🛠 Stack
+## Stack
 
 **Languages** Python · SQL · R
 **ML** scikit-learn · XGBoost · LightGBM · CatBoost · TensorFlow · PyTorch
@@ -62,13 +62,13 @@ Built econometric revenue-forecasting models (frequentist and Bayesian) for macr
 
 ---
 
-## 🎓 Teaching
+## Teaching
 
 Instructor at **FCCD** and **Universidade dos Dados** — courses on Machine Learning, Statistics, and Python. Explaining a concept clearly to a room of students is a good forcing function for actually understanding it.
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p align="left">
   
@@ -78,11 +78,11 @@ Instructor at **FCCD** and **Universidade dos Dados** — courses on Machine Lea
 
 ---
 
-## 🎓 Background
+## Background
 
 Electrical Engineering (UNESP) · Postgraduate in AI & Big Data (USP)
 
-## 🌍 Languages
+## Languages
 
 🇧🇷 Portuguese — Native · 🇺🇸 English — Professional working proficiency · 🇫🇷 French — Intermediate
 

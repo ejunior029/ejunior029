@@ -28,6 +28,7 @@
 | **[brazil-municipal-gdp-regression](https://github.com/ejunior029/brazil-municipal-gdp-regression)** | End-to-end regression on real IBGE data: EDA → baseline → 5-fold CV model comparison → Optuna Bayesian tuning. XGBoost R² 0.90 in CV. |
 | **[fatal-accident-prediction-br](https://github.com/ejunior029/fatal-accident-prediction-br)** | Imbalanced binary classification (13:1) on 73k real PRF traffic-accident records. Exposes the "93% accuracy, 0 fatalities detected" trap, then fixes it — F1 improves from 0.00 (dummy) to 0.38 (tuned XGBoost). |
 | **[municipios-br-clustering](https://github.com/ejunior029/municipios-br-clustering)** | Unsupervised clustering on real IBGE data (5,570 municipalities): EDA → baseline KMeans → 7-algorithm comparison (KMeans, Agglomerative, DBSCAN, HDBSCAN, OPTICS, KModes, KPrototypes) → final model. Rediscovers Brazil's Southeast/Northeast economic divide with zero labels — silhouette 0.41. |
+| [anp-fuel-price-anomaly-detection](https://github.com/ejunior029/anp-fuel-price-anomaly-detection) | Unsupervised anomaly detection on 52k real ANP fuel-price records across all 27 Brazilian states: EDA → baseline IsolationForest → 4-algorithm comparison (IsolationForest, LOF, OneClassSVM, EllipticEnvelope) → synthetic-anomaly evaluation. No real labels exist, so anomalies are injected synthetically to measure it — exposes LocalOutlierFactor flagging **zero** anomalies despite a 0.91 ROC-AUC, then finds the actual winner: OneClassSVM, F1 0.68. |
 
 ---
 
